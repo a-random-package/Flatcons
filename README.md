@@ -1,4 +1,3 @@
-# Flatcons
 ![Flatcons Now Open](https://sites.google.com/site/alexmiller17/FC_Open.png)
 
 Calling all iconographers! Flatcons is now open source, that means that anyone can design new icons for the packs, upload them for review and be included in the updates. If you have an image editor (i.e Photoshop, GIMP, etc.) just download the PSD files and follow the simple instructions below. Once you have saved them as .png files upload them to the icon community under the proper category (i.e Flatcons) and myself and the moderators will review them. Once we have enough icons for an update, I will compile them and push the update through the arandompackage Play account, with credits to the artists in the new "Credits" section in the dashboard.
