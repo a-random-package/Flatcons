@@ -9,7 +9,7 @@ Flatcons are rendered at 192px with a 91x91px glyph centered in the elipse. Make
 
 #####Pixel Hinting
 
-Pixel hinting is a technique used in photoshop on shape layers to create those crisp lines you are used to seeing in quality icons. This is a big deal to us. The glyphs MUST BE PIXEL HINTED. If you already know how to do this, awesome, download the PSD's and get crackin'. If not, I have a quick video explanation [on YouTube](https://www.youtube.com/watch?v=zbE3iQV16wI)
+Pixel hinting is a technique used in photoshop on shape layers to create those crisp lines you are used to seeing in quality icons. **This is a big deal to us.** The glyphs MUST BE PIXEL HINTED. If you already know how to do this, awesome, download the PSD's and get crackin'. If not, I have a quick video explanation [on YouTube](https://www.youtube.com/watch?v=zbE3iQV16wI)
 
 #####Optimize Yo!
 
