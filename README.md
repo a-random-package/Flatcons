@@ -19,4 +19,12 @@ PNG files are awesome, except they store a lot of meta data that we don't need i
 Once you have saved and optimized the icons, upload them to the community. (Join if you aren't a member)
 [Arandompackage Icon Commnunity](https://plus.google.com/u/0/communities/100362623796145762749)
 
+*If you are familair with Github, you can create your own branch and use pull requests to submit icons.
+
 We will let you know once we have reviewed them. If your icons are included, you will be mentioned in the Credits section of the new dashboard.
+
+#Wallpapers
+
+If you'd like to submit original wallpapers, they must be at least 3840x2160 to support displays with ultra high resolution. Multiple versions can be included to support smaller displays without scaling.
+
+Upload wallpapers in the same way you would icons, either through the community or via pull request.
